@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    color: white;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.amazon_logo{
+    height: 56px;
+    width: 100px;
+}
+.logo{
+    background-image: url(pic4.webp);
+    background-size: cover;
+    height: 56px;
+    width: 100%; 
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+#del{
+    font-size: 0.8rem;
+    color: #C1C1C1;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#pel{
+    font-size: 1rem;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 14px;
+}
+.loc{
+    display: flex;
+}
+.nav-search{
+    display: flex;
+    
+    height: 40px;
+    width: 750px;
+   
+   border-radius: 4px;
+   margin-left: 6px;
+   margin-right: 6px;
+   
+
+}
+#sel{
+    background-color: #f3f3f3;
+    height: 40px;
+
+    color: #000000;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    width: 50px;
+    text-align: center;
+    border: none;
+}
+#yellow{
+    width: 100%;
+    font-size: 14px;
+    border-color: #ffffff;
+    border: 1px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    width: 55px;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color:#faba6b;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #544C3C;
+}
+.flag{
+    background-image: url(sss.png);
+    background-size: cover;
+    height: 18px;
+    width: 24px;
+    margin-right: 4px;
+    margin-left: 6px;
+}
+#en{
+    font-weight: bold;
+   
+    width: px;
+    border: none;
+    font-size: 14px;
+}
+.india{
+    display: flex;
+    height: 56px;
+    align-items: center;
+    justify-content: center;
+}
+#tel{
+    font-size: 0.8rem;
+    color: #C1C1C1;
+    margin-top: 10px;
+}
+.cart i{
+    font-size: 30px;
+
+}
+.panel {
+    background-color: #242c3c;
+    display: flex;
+    font-size: 14px;
+    justify-content: space-evenly;
+    height: 40px;
+    align-items: center;
+}
+.indi{
+    background-image: url(pic5.jpg);
+    background-size: cover;
+    height: 440px;
+}
+.rox{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #E2E6E6;
+}
+.box{
+   
+    height: 385px;
+    width: 23%;
+    background-color: white;
+     color: black;
+    font-weight: bold;
+    font-size: 21px;
+    text-align: center;
+    border: none;
+    padding: 20px 0px 15px;
+
+}
+.box1{
+    color: black;
+    font-weight: bold;
+    font-size: 21px;
+    text-align: center;
+    border: none;
+    padding: 20px 0px 15px;
+
+
+    
+}
+.img{
+    background-image: url(home.webp);
+    background-size: cover;
+    height: 320px;
+    margin: 20px;
+}
+.img1{
+     background-image: url(fridge.webp);
+    background-size: cover;
+    height: 294px;
+    margin: 20px;
+    
+}
+.box2{
+    color: black;
+    font-weight: bold;
+    font-size: 21px;
+    text-align: center;
+    border: none;
+    padding: 20px 0px 15px;
+}
+.img2{
+     background-image: url(head.webp);
+    background-size: cover;
+    height: 294px;
+    margin: 20px;
+
+}
+.img3{
+      background-image: url(tv.webp);
+    background-size: cover;
+    height: 294px;
+    margin: 20px;    
+}
+.back{
+    background-color: #37475a;
+    font-size: 13px;
+    height: 50px;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+
+}
