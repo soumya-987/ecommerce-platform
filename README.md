@@ -28,3 +28,6 @@ LocalStorage API to persist shopping cart data across sessions
 
 Vanilla JavaScript DOM manipulation for interactive elements without relying on external frameworks
 
+Soumya Jain
+ ![e-commerce screenshot]()
+

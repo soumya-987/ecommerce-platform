@@ -125,7 +125,10 @@
 .indi{
     background-image: url(pic5.jpg);
     background-size: cover;
-    height: 440px;
+    height:260px;
+    object-fit: cover;
+    position: relative;
+    z-index: -3;
 }
 .rox{
     display: flex;
@@ -143,6 +146,8 @@
     text-align: center;
     border: none;
     padding: 20px 0px 15px;
+   
+
 
 }
 .box1{
@@ -199,3 +204,9 @@
     align-items: center;
 
 }
+
+/* .rox{
+    display: flex;
+    height: 300px;
+
+} */
